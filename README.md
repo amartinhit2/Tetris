@@ -57,7 +57,3 @@ También puedes pegar cualquier enlace directo a un archivo de audio (por ejempl
 
 ## Licencia
 Usa este código libremente para fines personales o educativos. Si quieres que agregue una licencia formal (por ejemplo MIT), dímelo y la incluyo.
-
----
-
-Si quieres que incluya la URL por defecto en `README` (o que genere una versión comprimida/otra página con instrucciones de despliegue), dime cómo prefieres proceder y lo preparo.
